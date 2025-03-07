@@ -71,5 +71,5 @@ This is an extra line.
 ## Author
 **Krishna Aravapalli**
 
-Feel free to contribute, suggest improvements, or report issues!
+
 
